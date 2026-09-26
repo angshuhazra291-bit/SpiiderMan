@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: skyblue;
+    width: 100%;
+    
+    
+p{
+    background: rgba(0, 0, 255, 0.493);
+    font-size: 24px;
+    border:solid rgba(0, 0, 255, 0.468);
+    text-transform: capitalize;
+    border-radius: 30px;
+    padding: 11px;
+    justify-content: top;
+    margin: 10px;
+}
+img{
+    padding: 30px;
+    width: 70%;
+    justify-content: center;
+    margin-left: 90px;
+}
